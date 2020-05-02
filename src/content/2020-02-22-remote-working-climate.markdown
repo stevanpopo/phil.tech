@@ -4,7 +4,7 @@ author: [Ghost]
 title: Remote Work As Climate Action
 excerpt: With the slow but sure rise in remote working, let's leverge this fantastic lifestyle change to improve our own quality of life, and avoid perminently flooding the cities millions of us call home.
 date: 2020-02-22T12:00:00.000Z
-image: /images/article_images/2020-02-22-remote-work-climate/cover.jpg
+image: img/2020-02-22-remote-work-climate/cover.jpg
 ---
 
 Companies are stepping up to [go carbon neutral](https://www.climateneutral.org/certified-brands) ([or even carbon negative](https://blogs.microsoft.com/blog/2020/01/16/microsoft-will-be-carbon-negative-by-2030/)), and the number of [big companies offering remote work](https://www.forbes.com/sites/alexandratalty/2019/01/15/work-from-home-2019-the-top-100-companies-for-remote-jobs/#d580efe15444) is on the rise, but [remote work in the States is still only 3-5%](https://lp.buffer.com/state-of-remote-work-2020). With most of the world ([especially the U.S.](https://ourworldindata.org/uploads/2019/10/Cumulative-CO2-treemap.png)) desperately needing to sort its carbon footprint out, remote working might just be a big piece of the puzzle.
@@ -19,11 +19,11 @@ Getting out of the daily grind and riding around all of Europe has given me a ch
 
 Regardless of the transportation you choose: Car, train, bike, hoverboard; going to the same place every single day is uninteresting at best. 
 
-![](images/article_images/2020-02-22-remote-work-climate/car.png)
+![](img/2020-02-22-remote-work-climate/car.png)
 
 The average annual carbon footprint is 10 tonnes in many developed countries, and in America it's 15-20 tonnes. The recommended sustainable footprint for a habitable planet is ~2 tonnes, so... fuck! Driving alone is enough to sail straight past that target, meaning if you even breathe at any point in the year you're actively contributing to [150 million peoples homes being underwater by 2050](https://www.globalchange.gov/browse/multimedia/projected-sea-level-rise-and-flooding-2050).
 
-![](images/article_images/2020-02-22-remote-work-climate/footprint-guide.jpg)
+![](img/2020-02-22-remote-work-climate/footprint-guide.jpg)
 
 Trains are [better for the environment than flying](https://www.bbc.com/news/science-environment-49349566), the exact improvement of course depending on the power source. With your hands freed up for entertainment or other productive tasks, but going to the same train station every day is not the best. Even if you love cycling, riding the same route every day to and from the same bloody office gets very mundane very quickly. 
 
@@ -45,7 +45,7 @@ I've never cared about fashion. I used to be mistaken for a bike messenger and g
 
 After all, who gives a shit how I look when I'm bike nomading? I get work done on the side of the road, park benches, cafes, wherever I feel like stopping. I'm happy in my Power Ranger costume, and nobody else seems to care.
 
-![](images/article_images/2020-02-22-remote-work-climate/road-work.jpg)
+![](img/2020-02-22-remote-work-climate/road-work.jpg)
 
 I love not needing to waste time, money, and energy resources on doing laundry, I just occasionally hand wash the few things I own, and dry them in the sun. Sometimes I lash things onto the rear rack and let them dry while I ride. 
 
@@ -59,7 +59,7 @@ The rational part of your brain knows that flying is killing the planet, but oth
 
 The default of flying is ridiculously pervasive, to a point where lots of otherwise well-intentioned people don't even consider the alternatives. I stayed with a lovely couple in Lisbon ([Couchsurfing](https://couchsurfing.com/) ftw!) who were planning a trip to see some family in Azerbaijan. They were intrigued when I told them I was not flying, but they said there was no other way for them to get there. I whipped out [Rome2Rio](https://www.rome2rio.com/) and showed them the alternatives.
 
-![](images/article_images/2020-02-22-remote-work-climate/azerbaijan.png)
+![](img/2020-02-22-remote-work-climate/azerbaijan.png)
 
 They were amazed to see there was a train route the whole way there, but put off when they realized it would take 4.5 days. He commented that it would require vacation time to get there, because it would not fit in a single weekend.
 
@@ -119,7 +119,7 @@ Whenever you're not sure, it can help to simply be up front with staff before yo
 
 I like to ride through touristy areas out of season. Riding through the Swedish countryside I found a beautiful restaurant by a lake, and they had a smattering of guests who all wanted to sit outside. Inside was totally empty, and they helped me find a table next to a power cord. They said they didn't mind how long I stayed, because given the choice of a) getting a few quid and helping somebody, b) literally nothing, they'd rather the former.
 
-![](images/article_images/2020-02-22-remote-work-climate/restaurant.jpg)
+![](img/2020-02-22-remote-work-climate/restaurant.jpg)
 
 ### Trains
 

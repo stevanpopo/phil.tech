@@ -208,7 +208,7 @@ Even though [HTTP/2 was published](https://tools.ietf.org/html/rfc7540) in 2015,
 
 Server Push lets API developers solve over-fetching, having them design more simple resources and move related content out to other endpoints, which can be pushed to the client preemptively if they're likely to want it (or if they specifically asked for it with the `Preload` request header).
 
-[![](images/article_images/2019-12-28-modern-web-api-frameworks/vulcain-push.png)](https://vulcain.rocks)
+[![](img/2019-12-28-modern-web-api-frameworks/vulcain-push.png)](https://vulcain.rocks)
 
 API developers back in the HTTP/1.1 days would [include every tangentially related resource](https://apisyouwonthate.com/blog/lets-stop-building-apis-around-a-network-hack/) in a single response to avoid clients having to make multiple requests, and this was slow and annoying for clients who didn't need that extra data. If some of that data was computed, or highly volatile and therefore tricky to cache, the whole resource would be slow every time, instead of it being broken into some cacheable and some uncacheable resources. 
 
@@ -303,7 +303,7 @@ end
 
 Adding that will emit a `Cache-Control` and set the `max-age` to 180.
 
-![](images/article_images/2019-12-28-modern-web-api-frameworks/heroku-cache-control.png)
+![](img/2019-12-28-modern-web-api-frameworks/heroku-cache-control.png)
 
 The basic time-based caching is not the exciting thing here, the best bit is the [stale?](https://api.rubyonrails.org/classes/ActionController/ConditionalGet.html#method-i-stale-3F) method.
 
