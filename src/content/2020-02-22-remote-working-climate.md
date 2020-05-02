@@ -3,7 +3,7 @@ layout: post
 author: [Ghost]
 title: Remote Work As Climate Action
 excerpt: With the slow but sure rise in remote working, let's leverge this fantastic lifestyle change to improve our own quality of life, and avoid perminently flooding the cities millions of us call home.
-date: 2020-02-22T12:00:00.000Z
+date: 2020-02-22
 image: img/2020-02-22-remote-work-climate/cover.jpg
 ---
 
