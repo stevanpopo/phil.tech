@@ -1,6 +1,6 @@
 ---
 layout: post
-author: [Ghost]
+author: [Phil]
 title: Are Frameworks Keeping Up With Modern API Requirements?
 category: api
 excerpt: What does a web application framework need to offer API developers in 2020 in order to meet the demands and keep up with modern practices?
