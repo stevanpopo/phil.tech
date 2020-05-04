@@ -13,3 +13,10 @@
   website: https://ghost.org/
   location: San Francisco
   profile_image: img/alex-knight-326705-unsplash.jpg
+- id: Phil
+  avatar: avatars/phil.jpg
+  profile_image: "avatars/phil-profile.jpg"
+  bio: I got into distance cycling and racing whilst living in NYC for the last 7 years, but they kicked me out so I'm doing a lap of Europe.
+  twitter: philsturgeon
+  website: https://phil.bike/
+  location: Spain
